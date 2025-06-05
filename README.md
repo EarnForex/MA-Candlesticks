@@ -6,6 +6,6 @@ You can use this indicator as you do with a normal moving average, except that i
 
 ![MA Candlesticks indicator shows both trending and sideways phases on this EUR/USD market](https://github.com/EarnForex/MA-Candlesticks/blob/main/README_Images/ma-candlesticks-showing-trend-sideways-markets.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/MA-Candlesticks/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/MA-Candlesticks/
 
 Any contributions to the code are welcome!
